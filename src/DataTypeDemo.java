@@ -31,7 +31,7 @@ public class DataTypeDemo {
         char ch='B';
         System.out.println("The grade of student is "+ch);
 
-        String str="A";
+        String str="A++";
         System.out.println("The String is "+str);
 
         boolean bol=true;
