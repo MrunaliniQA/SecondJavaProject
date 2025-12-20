@@ -25,7 +25,7 @@ public class DataTypeDemo {
 
         //String Value
 
-        String name="John";
+        String name="Caroline";
         System.out.println("The String is "+name);
 
         char ch='B';
