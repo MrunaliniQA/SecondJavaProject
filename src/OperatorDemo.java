@@ -25,7 +25,7 @@ public static void main(String[] args) {
 
     int x=100, y=200;
 
-    int z=(5>6)?x:y; //
+    int z=(x>y)?x:y; //
     System.out.println("Value of z is "+z);
 
 
